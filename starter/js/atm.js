@@ -6,6 +6,7 @@ $(document).ready(function () {
   $('#withdrawSavings').on('click', withdrawSavings);
   $('#checkingBalance').addClass('zero');
   $('#savingsBalance').addClass('zero');
+
 })
   //amountChecking
   //checkingBalanceNumber
